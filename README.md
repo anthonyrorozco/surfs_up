@@ -5,7 +5,7 @@ The goal of our research is to look at temperature data from June and December t
 
 ## Results
 
-
+### June Analysis
 - June results were tropical expected weather for a surfs shop. 
 - Average temperature of 75
 - Minimum temperature of 64
@@ -16,6 +16,8 @@ The goal of our research is to look at temperature data from June and December t
 
 ![June_hist](https://user-images.githubusercontent.com/105666905/184280602-00736c1c-7d91-44ae-a6cf-125c9ab892ad.png)
 
+
+### December Analysis
 - The findings for December were a little less tropical for surfing shop weather, but still fairly good..
 - Average temperature of 71
 - Minimum temperature of 56
