@@ -32,6 +32,7 @@ The goal of our research is to look at temperature data from June and December t
 The average temperature in Hawaii is most definitely practical for a surf shop because it is a tropical climate year round, with temperatures ranging by less than 5 degrees. However, temperature is not the only issue to consider while selecting a shop.: 
 1. Examine the precipitation in the nearby locations to see if surfers are frequently rained out. 
 2. If strong winds are influencing surfing patterns and other factors that may cause a surfer to stop surfing.
+
 These are possible variables to consider.
 
 
