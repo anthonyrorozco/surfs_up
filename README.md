@@ -1,7 +1,7 @@
 # surfs_up
 # Overview 
 
-The goal of our research is to look at temperature data from June and December to see if having a surf store year round is feasible. We obtain the temperature data by executing two separate queries, one for June and one for December. After running our queries, we save the temperatures to a list and then transform them to a dataframe. After we've generated our dataframe, we can use the.describe() method to acquire our summary statistics. Here's what we discovered:
+The goal of our research is to look at temperature data from June and December to see if having a surf store year round is feasible. We obtain the temperature data by executing two separate queries, one for June and one for December. After running our queries, we save the temperatures to a list and then transform them to a dataframe. After we've generated our dataframe, we can use the .describe() method to acquire our summary statistics. Here's what we discovered!
 
 ## Results
 
